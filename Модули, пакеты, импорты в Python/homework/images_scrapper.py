@@ -90,5 +90,5 @@ def save_website_pics(url, scan_limit=30):
 
 
 if __name__ == '__main__':
-    url = 'https://netology.ru'
+    url = 'https://www.metro-set.ru/surgut/'
     save_website_pics(url, scan_limit=15)
